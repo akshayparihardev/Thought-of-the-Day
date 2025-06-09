@@ -1,4 +1,4 @@
-name: Daily README Update
+name: Daily Thought Update
 
 on:
   schedule:
