@@ -10,6 +10,8 @@ on:
 jobs:
   update-thought:
     runs-on: ubuntu-latest
+    permissions: # Add this block
+      contents: write # This grants the GITHUB_TOKEN permission to push changes
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -17,14 +19,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x' # Or specify your exact Python version, e.g., '3.9'
+          python-version: '3.x'
 
       - name: Install dependencies (if any)
         run: |
           # Add any pip installs your script needs, e.g.,
           # pip install requests
 
-      # IMPORTANT: Your GitHub identity is set here for contribution tracking
       - name: Configure Git for Contribution
         run: |
           git config user.name "akshayparihardev"
@@ -37,4 +38,4 @@ jobs:
         run: |
           git diff --exit-code || (git add README.md && git commit -m "✨ Daily Thought Update: $(date +'%Y-%m-%d')" && git push)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is automatically provided by GitHub Actions
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
