@@ -8,7 +8,7 @@ _Your daily spark of wisdom!_
 
 ### 💬 Today's Insight:
 ```
-> **Your most unhappy customers are your greatest source of learning.** ❤️ - Bill Gates
+> What lies behind us and what lies before us are tiny matters compared to what lies within us. ❤️ - Ralph Waldo Emerson
 ```
 
 --- 
