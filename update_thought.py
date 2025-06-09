@@ -95,7 +95,7 @@ def update_readme():
     new_content += f"### 💬 Today's Insight:\n"
     new_content += "```\n"
     # The quote with the red heart before the author's name
-    new_content += f"> **{quote_text}** ❤️ - {author_name}\n"
+    new_content += f"> #### {quote_text} ❤️ - {author_name}\n"
     new_content += "```\n\n"
 
     new_content += "--- \n\n"
