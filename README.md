@@ -8,7 +8,7 @@ _Your daily spark of wisdom!_
 
 ### 💬 Today's Insight:
 ```
-> What lies behind us and what lies before us are tiny matters compared to what lies within us. ❤️ - Ralph Waldo Emerson
+> The only way to do great work is to love what you do. ❤️ - Steve Jobs
 ```
 
 --- 
