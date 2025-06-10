@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-09**
+## 🗓️ Date: **2025-06-10**
 
 ### 💬 Today's Insight:
 ```
-> The only way to do great work is to love what you do. ❤️ - Steve Jobs
+> Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. ❤️ - J.K. Rowling
 ```
 
 --- 
