@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-10**
+## 🗓️ Date: **2025-06-11**
 
 ### 💬 Today's Insight:
 ```
-> Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. ❤️ - J.K. Rowling
+> Someone is sitting in the shade today because someone planted a tree a long time ago. ❤️ - Warren Buffett
 ```
 
 --- 
