@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-12**
+## 🗓️ Date: **2025-06-13**
 
 ### 💬 Today's Insight:
 ```
-> Pressure is something you feel when you don't know what you're doing. ❤️ - Virat Kohli
+> Have no fear of perfection; you'll never reach it. ❤️ - Marie Curie
 ```
 
 --- 
