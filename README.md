@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-13**
+## 🗓️ Date: **2025-06-14**
 
 ### 💬 Today's Insight:
 ```
-> Have no fear of perfection; you'll never reach it. ❤️ - Marie Curie
+> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world. ❤️ - Louis Pasteur
 ```
 
 --- 
