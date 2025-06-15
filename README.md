@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-14**
+## 🗓️ Date: **2025-06-15**
 
 ### 💬 Today's Insight:
 ```
-> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world. ❤️ - Louis Pasteur
+> To be able to laugh and to be merciful are the only things that make man better than the beast. ❤️ - Ruskin Bond
 ```
 
 --- 
