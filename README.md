@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-18**
+## 🗓️ Date: **2025-06-19**
 
 ### 💬 Today's Insight:
 ```
-> Try to be a rainbow in someone's cloud. ❤️ - Maya Angelou
+> Have no fear of perfection; you'll never reach it. ❤️ - Marie Curie
 ```
 
 --- 
