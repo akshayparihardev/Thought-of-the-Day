@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-22**
+## 🗓️ Date: **2025-06-23**
 
 ### 💬 Today's Insight:
 ```
-> The only thing we have to fear is fear itself. ❤️ - Franklin D. Roosevelt
+> Believe you can and you're halfway there. ❤️ - Theodore Roosevelt
 ```
 
 --- 
