@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-26**
+## 🗓️ Date: **2025-06-27**
 
 ### 💬 Today's Insight:
 ```
-> The mind is everything. What you think you become. ❤️ - Buddha
+> Have no fear of perfection; you'll never reach it. ❤️ - Marie Curie
 ```
 
 --- 
