@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-06-28**
+## 🗓️ Date: **2025-06-29**
 
 ### 💬 Today's Insight:
 ```
-> We are such stuff as dreams are made on, and our little life is rounded with a sleep. ❤️ - William Shakespeare
+> Science is the search for truth, that is the effort to understand the world: it involves the rejection of bias, of dogma, of revelation, but not the rejection of morality. ❤️ - Linus Pauling
 ```
 
 --- 
