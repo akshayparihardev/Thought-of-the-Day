@@ -4,11 +4,11 @@
 
 _Your daily spark of wisdom!_
 
-## 🗓️ Date: **2025-07-01**
+## 🗓️ Date: **2025-07-02**
 
 ### 💬 Today's Insight:
 ```
-> Strive not to be a success, but rather to be of value. ❤️ - Albert Einstein
+> I have measured the heavens, now I shall measure the shadows of Earth. ❤️ - Johannes Kepler
 ```
 
 --- 
